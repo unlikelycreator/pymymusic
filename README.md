@@ -53,10 +53,10 @@ Download the the pymymusic.py file from pymymusic folder in github.
 #### Usage 🔥
  1. Now paste the file into 'Scripts' folder in your python install location.
  2. install all required packages with the dollowing command
-   - ```bash
+ 3. ```bash
 pip install youtube-search-python youtube_dl future pyfiglet jsons
 ```
- 3. Now just run pymymusic by typing pymymusic in your cmd/cli.
+ 4. Now just run pymymusic by typing pymymusic in your cmd/cli.
 
 
 
