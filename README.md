@@ -56,7 +56,7 @@ Download the the pymymusic.py file from pymymusic folder in github.
 ```bash
 pip install youtube-search-python youtube_dl future pyfiglet jsons
 ```
- 4. Now just run pymymusic by typing pymymusic in your cmd/cli.
+ 3. Now just run pymymusic by typing pymymusic in your cmd/cli.
 
 
 
